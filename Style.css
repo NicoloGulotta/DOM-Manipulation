@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 2px 0px;
+  box-sizing: border-box;
+
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  bottom: 0;
+  width: 100%;
+}
+
+div.telefono {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+h3 {
+  display: flex;
+  justify-content: center;
+}
+
+span {
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+img {
+  justify-content: center;
+}
